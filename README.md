@@ -1,4 +1,4 @@
-# Raftul — catalog de cărți
+# Bookshelf — catalog de cărți
 
 Proiect React pentru exersarea rutării cu React Router. Include pagină principală,
 listă de cărți cu căutare în URL, detalii de carte cu rută dinamică, favorite
